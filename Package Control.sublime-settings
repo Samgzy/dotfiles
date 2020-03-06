@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Dracula Color Scheme",
 		"Emmet",
@@ -16,7 +17,16 @@
 		"GitGutter",
 		"JSX",
 		"Package Control",
+		"ReIndent",
+		"RuboCop",
 		"SCSS",
-		"Theme - SoDaReloaded"
+		"SCSS Compiler",
+		"Simple JSX",
+		"Slime",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-rubocop",
+		"Theme - SoDaReloaded",
+		"Theme - Sodarized"
 	]
 }
