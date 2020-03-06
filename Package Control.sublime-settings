@@ -1,32 +1,32 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"ApplySyntax",
-		"Better CoffeeScript",
-		"BracketHighlighter",
-		"Dracula Color Scheme",
-		"Emmet",
-		"ERB Snippets",
-		"Git",
-		"GitGutter",
-		"JSX",
-		"Package Control",
-		"ReIndent",
-		"RuboCop",
-		"SCSS",
-		"SCSS Compiler",
-		"Simple JSX",
-		"Slime",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint_d",
-		"SublimeLinter-rubocop",
-		"Theme - SoDaReloaded",
-		"Theme - Sodarized"
-	]
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "ApplySyntax",
+    "Better CoffeeScript",
+    "BracketHighlighter",
+    "Dracula Color Scheme",
+    "Emmet",
+    "ERB Snippets",
+    "Git",
+    "GitGutter",
+    "JSX",
+    "Package Control",
+    "ReIndent",
+    "RuboCop",
+    "SCSS",
+    "SCSS Compiler",
+    "Simple JSX",
+    "Slime",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint_d",
+    "SublimeLinter-rubocop",
+    "Theme - SoDaReloaded",
+    "Theme - Sodarized"
+  ]
 }
