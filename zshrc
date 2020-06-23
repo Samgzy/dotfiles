@@ -21,3 +21,4 @@ export PATH="./bin:${PATH}"
 [[ -f "$HOME/.aliases" ]] && source "$HOME/.aliases"
 
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
